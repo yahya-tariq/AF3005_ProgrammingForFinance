@@ -24,15 +24,13 @@ By the end of the course, you’ll be comfortable using Python for data-driven f
 This GitHub repository contains all the coursework, including assignments and projects:
 
 AF3005-Programming-for-Finance/
-│── 📁 Assignments/             # Course assignments
-│    ├── Assignment1/          # Stock & Currency Tracker
+│── 📁 Assignments/            
+│    ├── Assignment1/          
 │    │   ├── i222254_AF3005_Assignment_1_Smart_Financial_Management_System.ipynb  # Jupyter Notebook
-│    │   ├── README.md         # Assignment details
-│── 📁 Projects/                # Final project and other finance applications
-│── 📁 Resources/               # Datasets, references, and extra materials
-│── README.md                   # Course overview & repository guide
-│── .gitignore                   # Ignore unnecessary files
-│── LICENSE                      # Open-source license (if applicable)
+│    │   ├── README.md         
+│── 📁 Projects/                
+│── 📁 Resources/               
+│── README.md                   
 
 📌 What’s Inside?
 
